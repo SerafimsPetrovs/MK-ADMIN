@@ -1,0 +1,15 @@
+D:\C#_works\MKadmin\MKadmin\bin\Debug\MKadmin.exe.config
+D:\C#_works\MKadmin\MKadmin\bin\Debug\MKadmin.exe
+D:\C#_works\MKadmin\MKadmin\bin\Debug\MKadmin.pdb
+D:\C#_works\MKadmin\MKadmin\obj\Debug\MKadmin.csproj.AssemblyReference.cache
+D:\C#_works\MKadmin\MKadmin\obj\Debug\MKadmin.csproj.SuggestedBindingRedirects.cache
+D:\C#_works\MKadmin\MKadmin\obj\Debug\MKadmin.csproj.CoreCompileInputs.cache
+D:\C#_works\MKadmin\MKadmin\obj\Debug\MKadmin.exe
+D:\C#_works\MKadmin\MKadmin\obj\Debug\MKadmin.pdb
+C:\Users\seraf\source\repos\MKadmin\MKadmin\bin\Debug\MKadmin.exe.config
+C:\Users\seraf\source\repos\MKadmin\MKadmin\bin\Debug\MKadmin.exe
+C:\Users\seraf\source\repos\MKadmin\MKadmin\bin\Debug\MKadmin.pdb
+C:\Users\seraf\source\repos\MKadmin\MKadmin\obj\Debug\MKadmin.csproj.AssemblyReference.cache
+C:\Users\seraf\source\repos\MKadmin\MKadmin\obj\Debug\MKadmin.csproj.CoreCompileInputs.cache
+C:\Users\seraf\source\repos\MKadmin\MKadmin\obj\Debug\MKadmin.exe
+C:\Users\seraf\source\repos\MKadmin\MKadmin\obj\Debug\MKadmin.pdb
